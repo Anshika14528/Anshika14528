@@ -5,7 +5,7 @@
   <h3>A Mathematics and Computing Student from IIT BHU, Varanasi</h3>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika14528)](https://github.com/Anshika14528/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika14528&show_icons=true)](https://github.com/Anshika14528/github-readme-stats&show_icons=true)
 <!--
 **Anshika14528/Anshika14528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
