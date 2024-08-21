@@ -1,11 +1,14 @@
 <div align="center">
   <h1>Hi 👋, I'm Anshika</h1>
 </div>
-<div align="center">
-  <h3>A Mathematics and Computing Student from IIT BHU, Varanasi</h3>
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anshika14528&show_icons=true"/>
+  <img alt="top langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika14528&layout=compact"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika14528&show_icons=true)](https://github.com/Anshika14528/github-readme-stats&show_icons=true)
+
 <!--
 **Anshika14528/Anshika14528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
