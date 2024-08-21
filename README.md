@@ -4,8 +4,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anshika14528&show_icons=true"/>
-  <img alt="top langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika14528&layout=compact"/>
+  <img alt="my stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=Anshika14528&show_icons=true"/>
+  <img alt="top langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika14528&layout=compact"/>
 </div>
 
 
