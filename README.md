@@ -1,4 +1,6 @@
-##                                                           Hi 👋, I'm Anshika
+<div align="center">
+  <h1>Hi 👋, I'm Anshika</h1>
+</div>
 
 <!--
 **Anshika14528/Anshika14528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
