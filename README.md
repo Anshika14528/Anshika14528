@@ -4,10 +4,7 @@
 
 - 📫 How to reach me: **14anshika7yadav@gmail.com**
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img alt="my stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=Anshika14528&show_icons=true" />
-  <img alt="top langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika14528&layout=compact" />
-</div>
+
 
 <br/>
 
